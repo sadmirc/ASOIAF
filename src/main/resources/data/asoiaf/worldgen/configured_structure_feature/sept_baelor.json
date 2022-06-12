@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "asoiaf:sept_baelor",
+    "size": 1
+  },
+  "biomes": "asoiaf:test_biome",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

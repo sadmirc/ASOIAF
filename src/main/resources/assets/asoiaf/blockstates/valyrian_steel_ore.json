@@ -1,0 +1,7 @@
+{ 
+	"variants": { 
+		"": { 
+			"model": "asoiaf:block/valyrian_steel_ore"
+		}
+	}
+}

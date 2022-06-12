@@ -1,0 +1,20 @@
+{ 
+	"type": "crafting_shaped",
+	"pattern": [ 
+		" I ",
+		"III",
+		" S "
+	],
+	"key": { 
+		"I": { 
+			"item": "asoiaf:valyrian_steel"
+		},
+		"S": { 
+			"item": "minecraft:stick"
+		}
+	},
+	"result": { 
+		"item": "asoiaf:longclaw",
+		"count": 1
+	}
+}
